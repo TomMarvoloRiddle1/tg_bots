@@ -1,1 +1,2 @@
-# fearandgreed_tg
+in .env
+key='API TOKEN HERE'
